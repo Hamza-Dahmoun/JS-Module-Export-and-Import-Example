@@ -1,4 +1,4 @@
-import * as myMathModule from "./math_functions.js";
+import * as myMathModule from "./modules/math_functions.js";
 
 //in this file we're going to import functions from math_functions.js file and use them
 

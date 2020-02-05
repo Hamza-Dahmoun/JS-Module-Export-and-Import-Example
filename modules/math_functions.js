@@ -13,4 +13,5 @@ const multiply = (x, y) => {
     return x * y;
 }
 
+//now lets export all three functions
 export { add, subtract, multiply };
